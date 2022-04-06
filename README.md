@@ -1,4 +1,4 @@
-This is the first Responsive Web Design Project in freecodecamp.
+This is the first Responsive Web Design Project on freecodecamp.
 
 It is a Bob Marley tribute page.
 
